@@ -1,5 +1,5 @@
 # Grade-Calculator_GUI
-This is my work- in-progress grade calculator converted to a GUI format using the Tkinter framework. The features that are associated with this application are:
+This is my *work- in-progress (not anymore!) grade calculator converted to a GUI format using the Tkinter framework. The features that are associated with this application are:
 - Mean
 - Median
 - Mode
