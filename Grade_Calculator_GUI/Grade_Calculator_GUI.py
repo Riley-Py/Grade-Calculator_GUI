@@ -1,5 +1,5 @@
 import tkinter as tk
-import playsound as playsound
+import playsound
 import statistics
 import glob
 from tkinter import font
