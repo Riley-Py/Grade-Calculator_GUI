@@ -12,7 +12,8 @@ To install:
 3. In the folder, look for the "Grade_Calculator_GUI.py" and double-click on it
 4. Volia! The program should be running and you should be able to use it!
 
-Alternatively, if you don't want to install Python (which I know many people that don't), simply install the executable file outside of the "Grade Calculator_GUI" and run it from there.
+Update: you don't need to do the above anymore.  For Windows, go into the .zip file and create a shortcut of the .exe (make sure you turn off Windows Defender or it'll read it as a virus).  Then, as long as you keep all of the other directories ("SFX/", "IMG/"), the program will look just fine.  I'll be updating this to include a method for GNU/Linux.
+
 This is my first large-scale GUI project, so it may be a bit unpolished (I know Tkinter looks a bit outdated).
 
 -RC
