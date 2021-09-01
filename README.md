@@ -11,6 +11,8 @@ Update: you don't need to do the above anymore.  For Windows, go into the .zip f
 
 Update #2: since the excutable was too big on Linux, you have to decompress the "Grade_Calculator_GUI" for GNU/Linux devices.  Then, you open the directory in the terminal and, considering that (most) all GNU/Linux have Python already installed, then you specifically state in the terminal "python Grade_Calculator_GUI.py" in order to run the software.  If you don't have Python, you can get it here: https://www.python.org/.  
 
+Update #3: To see the releases for each platform, go to the "Releases" section and you can pick the specific version for the platform.
+
 This is my first large-scale GUI project, so it may be a bit unpolished (I know Tkinter looks a bit outdated).
 
 -RC
