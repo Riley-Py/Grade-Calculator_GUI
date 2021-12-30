@@ -15,4 +15,6 @@ Update #3: To see the releases for each platform, go to the "Releases" section a
 
 This is my first large-scale GUI project, so it may be a bit unpolished (I know Tkinter looks a bit outdated).
 
+Hey, testing with git, wowo!  See if this works!
+
 -RC
